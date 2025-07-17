@@ -1,0 +1,2 @@
+docker run --name F1-DW-postgres -e POSTGRES_USER=root -e POSTGRES_PASSWORD=Password@123 -p 5432:5432 -d postgres
+047dba9af748e2659e63907de3697b361a912ae4c355086b73e2e497807aa967
